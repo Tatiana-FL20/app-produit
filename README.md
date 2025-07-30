@@ -14,8 +14,8 @@ Une application web moderne pour la gestion de produits et de catégories, avec 
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://gitlab.com/ynnotjoh/gestion-produit.git
-cd gestion-produits
+git clone https://github.com/Tatiana-FL20/app-produit.git
+cd app-produit
 ```
 
 ### 2. Installer les dépendances
